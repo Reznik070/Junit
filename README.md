@@ -1,0 +1,2 @@
+# Junit
+Simple test suite
